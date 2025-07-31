@@ -32,6 +32,6 @@ Repositorio correspondiente de los talleres de las prácticas iniciales de la ca
 
 ### Taller 1
 
-- [`🐍 Taller 1:`](./Taller1/) Mantenimiento y Reparación de Computadoras
+- [`💻🔧 Taller 1:`](./Taller1/) Mantenimiento y Reparación de Computadoras
   - [📚 Manual de usuario](./Taller1/ManualDeUsuario-Grupo#8.pdf)
   - [📚 Trifoliar](./Taller1/Trifoliar%20Mantenimiento%20de%20Computadora.pdf)
